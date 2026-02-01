@@ -1,0 +1,115 @@
+Uri: https://deltastudy.site/favicon.ico
+File Name: D:\COPIED\deltastudy.site\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://deltastudy.site/study-v2/batches
+File Name: D:\COPIED\deltastudy.site\study-v2\batches.html
+Content Type: text/html
+
+Uri: https://deltastudy.site/_next/static/chunks/1255-1689eed12314f393.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\1255-1689eed12314f393-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/4057-40d9a9a2a5aaf435.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\4057-40d9a9a2a5aaf435-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/4236-f18d2c48ebcf7cad.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\4236-f18d2c48ebcf7cad-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/4bd1b696-f6bedae49f0827a5.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\4bd1b696-f6bedae49f0827a5-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/6239-e8e484b45b206976.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\6239-e8e484b45b206976.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/6959-88126ce677ca6c55.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\6959-88126ce677ca6c55.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/7461-ad16cf6ef92528e0.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\7461-ad16cf6ef92528e0-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/7741-b347111dbdba500c.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\7741-b347111dbdba500c-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/817-90f5c454289a9795.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\817-90f5c454289a9795-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/9392-43203014a4a65a6a.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\9392-43203014a4a65a6a-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/app/layout-cda1919cdd4dc294.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\app\layout-cda1919cdd4dc294-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/app/not-found-4d7063e3a8ca9c91.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\app\not-found-4d7063e3a8ca9c91-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/app/study-v2/batches/page-645f1fe16f7d74aa.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\app\study-v2\batches\page-645f1fe16f7d74aa.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/bc9e92e6-477d5391ff04765e.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\bc9e92e6-477d5391ff04765e-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/ceb9e9aa-9dd72bab111e8030.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\ceb9e9aa-9dd72bab111e8030-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/main-app-5eb0d9c55a395822.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\main-app-5eb0d9c55a395822-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\polyfills-42372ed130431b0a-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/chunks/webpack-5b5a51f6afce2812.js
+File Name: D:\COPIED\deltastudy.site\_next\static\chunks\webpack-5b5a51f6afce2812-1.js
+Content Type: application/javascript
+
+Uri: https://deltastudy.site/_next/static/css/1dfb7c914408d9d4.css
+File Name: D:\COPIED\deltastudy.site\_next\static\css\1dfb7c914408d9d4-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter&display=swap
+File Name: D:\COPIED\deltastudy.site\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: D:\COPIED\deltastudy.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg-1.ttf
+Content Type: font/ttf
+
+ite\fYpHvpd2\b8427054-c3f4-4abe-9018-187452e29f9a.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/gZdPN60X/e29a3bb8-a705-4996-b116-d863ab25d5fc.webp
+File Name: D:\COPIED\deltastudy.site\gZdPN60X\e29a3bb8-a705-4996-b116-d863ab25d5fc.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/HTxj8RDB/eeb786e2-dec3-4de1-8059-4d986cd9c839.webp
+File Name: D:\COPIED\deltastudy.site\HTxj8RDB\eeb786e2-dec3-4de1-8059-4d986cd9c839.webp
+Content Type: image/webp
+
+Uri: https://i.ibb.co/JRBkhbrz/8d9b4a0e-04d4-4dd3-b7b6-c722eb977a5f.webp
+File Name: D:\COPIED\deltastudy.site\JRBkhbrz\8d9b4a0e-04d4-4dd3-b7b6-c722eb977a5f.webp
+Content Type: image/webp
+
+Uri: https://i.postimg.cc/dQ75LH4X/image.png
+File Name: D:\COPIED\deltastudy.site\dQ75LH4X\image.png
+Content Type: image/png
+
+Uri: https://static.pw.live/ua/images/hero-student-w.webp
+File Name: D:\COPIED\deltastudy.site\ua\images\hero-student-w.webp
+Content Type: image/webp
+
